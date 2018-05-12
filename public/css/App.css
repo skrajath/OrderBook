@@ -1,0 +1,16 @@
+.App {
+  margin: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.table-header{
+  background-color: #eae9e9;
+}
+
+.row{
+  padding: 15px;
+}
+
+.panel-body{
+  padding: 0px !important;
+}
